@@ -9,7 +9,7 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulu2</title>
+        <title>Hulu-clone</title>
       </Head>
 
       {/* Header */}
